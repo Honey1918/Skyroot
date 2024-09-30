@@ -1,0 +1,23 @@
+delhi_landmarks = {
+    'India Gate': set(['Central Secretariat']),
+    'Red Fort': set(['Chandni Chowk']),
+    'Qutub Minar': set(['Qutub Minar']),
+    'Lotus Temple': set(['Kalkaji Mandir']),
+    'Humayun\'s Tomb': set(['JLN Stadium']),
+    'Akshardham Temple': set(['Akshardham']),
+    'Rashtrapati Bhavan': set(['Central Secretariat']),
+    'Connaught Place': set(['Rajiv Chowk']),
+    'Lodhi Gardens': set(['Jor Bagh']),
+    'Jama Masjid': set(['Chawri Bazar']),
+    'Raj Ghat': set(['Kashmere Gate']),
+    'National Museum': set(['Central Secretariat']),
+    'Nehru Place': set(['Nehru Place']),
+    'Chandni Chowk Market': set(['Chandni Chowk']),
+    'Dilli Haat': set(['INA']),
+    'Lajpat Nagar Market': set(['Lajpat Nagar']),
+    'Saket Mall': set(['Saket']),
+    'Cyber Hub': set(['MG Road']),
+    'Select Citywalk': set(['Malviya Nagar']),
+    'Vishwa Vidyalaya (DU North Campus)': set(['Vishwavidyalaya']),
+    'Tughlaqabad Fort': set(['Tughlaqabad'])
+}
